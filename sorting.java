@@ -25,7 +25,7 @@
 // }
 
 //SORTING USING INBUILT FUNCATION
-`// import java.util.Arrays;
+// import java.util.Arrays;
 // public class sorting{
 //     public static void main(String args[]){
 //         int arr[]={5,4,1,3,2};
